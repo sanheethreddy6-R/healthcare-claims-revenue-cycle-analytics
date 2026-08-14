@@ -1,0 +1,31 @@
+provider_id,provider_name,specialty,department
+PRV001,Provider 01,Radiology,Imaging
+PRV002,Provider 02,Internal Medicine,Primary Care
+PRV003,Provider 03,Radiology,Imaging
+PRV004,Provider 04,Internal Medicine,Primary Care
+PRV005,Provider 05,Gastroenterology,GI
+PRV006,Provider 06,Family Medicine,Primary Care
+PRV007,Provider 07,Family Medicine,Primary Care
+PRV008,Provider 08,Cardiology,Cardiology
+PRV009,Provider 09,Emergency Medicine,Emergency
+PRV010,Provider 10,Internal Medicine,Primary Care
+PRV011,Provider 11,Orthopedics,Orthopedics
+PRV012,Provider 12,Cardiology,Cardiology
+PRV013,Provider 13,Internal Medicine,Primary Care
+PRV014,Provider 14,Orthopedics,Orthopedics
+PRV015,Provider 15,Cardiology,Cardiology
+PRV016,Provider 16,Orthopedics,Orthopedics
+PRV017,Provider 17,Endocrinology,Endocrinology
+PRV018,Provider 18,Gastroenterology,GI
+PRV019,Provider 19,Internal Medicine,Primary Care
+PRV020,Provider 20,Radiology,Imaging
+PRV021,Provider 21,Emergency Medicine,Emergency
+PRV022,Provider 22,Cardiology,Cardiology
+PRV023,Provider 23,Family Medicine,Primary Care
+PRV024,Provider 24,Radiology,Imaging
+PRV025,Provider 25,Gastroenterology,GI
+PRV026,Provider 26,Family Medicine,Primary Care
+PRV027,Provider 27,Radiology,Imaging
+PRV028,Provider 28,Internal Medicine,Primary Care
+PRV029,Provider 29,Internal Medicine,Primary Care
+PRV030,Provider 30,Family Medicine,Primary Care

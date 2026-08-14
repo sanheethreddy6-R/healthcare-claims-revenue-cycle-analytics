@@ -1,0 +1,9 @@
+payer_id,payer_name,payer_group
+PAY001,Medicare,Government
+PAY002,Medicaid,Government
+PAY003,BlueCross PPO,Commercial
+PAY004,United PPO,Commercial
+PAY005,Aetna HMO,Commercial
+PAY006,Cigna PPO,Commercial
+PAY007,Self Pay,Self-Pay
+PAY008,Employer Direct,Commercial

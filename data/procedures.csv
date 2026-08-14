@@ -1,0 +1,17 @@
+cpt_code,procedure_description,service_line,standard_charge
+99213,"Office/outpatient visit, established patient",E/M,135
+99214,"Office/outpatient visit, established patient, higher complexity",E/M,190
+99203,"Office/outpatient visit, new patient",E/M,210
+93000,Electrocardiogram with interpretation,Cardiology,95
+71046,"Chest X-ray, 2 views",Imaging,165
+73562,"Knee X-ray, 3 views",Imaging,180
+80053,Comprehensive metabolic panel,Laboratory,78
+85025,Complete blood count,Laboratory,55
+83036,Hemoglobin A1c,Laboratory,48
+36415,Venipuncture,Laboratory,25
+45378,Diagnostic colonoscopy,GI,1450
+43235,Upper GI endoscopy,GI,1280
+93306,Echocardiography,Cardiology,1200
+97110,Therapeutic exercises,Rehab,120
+99284,Emergency department visit,Emergency,980
+99285,"Emergency department visit, high severity",Emergency,1650
